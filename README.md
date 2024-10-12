@@ -5,19 +5,19 @@ A deep learning model for detecting suicidal tendencies in text using LSTM and G
 This project builds a machine learning model using an LSTM (Long Short-Term Memory) neural network for detecting suicidal tendencies in text data. The model is trained on a labeled dataset of text samples and uses pre-trained GloVe embeddings for word representations.
 
 # Table of Contents
-Overview
-Dataset
-Model Architecture
-Installation
-Usage
-Preprocessing
-Training
-Prediction
-Model and Tokenizer Saving
-IPyWidgets for Interaction
-Results
-Contributing
-License
+- Overview
+- Dataset
+- Model Architecture
+- Installation
+- Usage
+- Preprocessing
+- Training
+- Prediction
+- Model and Tokenizer Saving
+- IPyWidgets for Interaction
+- Results
+- Contributing
+- License
 
 # Overview
 The goal of this project is to detect suicide-related tendencies in textual data using a deep learning model. The model is trained on a dataset that contains user-generated text labeled as either suicidal or non-suicidal.
