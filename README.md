@@ -46,7 +46,7 @@ cd suicide-risk-detection
 ```
 Install the necessary dependencies:
 ```bash
-Copy code
+
 pip install -r requirements.txt
 ```
 **Dependencies**:
